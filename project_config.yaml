@@ -1,0 +1,11 @@
+- project: "MORE_PLE_APPS_NUKESTUDIO"
+  path: "/media/P/MORE/MORE_PLE/MORE_PLE_APPS/MORE_PLE_APPS_NUKESTUDIO"
+
+- project: "MORE_DAILIES_TOOL"
+  path: "/media/P/MORE/MORE_PLE/MORE_DAILIES_TOOL"
+
+- project: "VendorDailies"
+  path: "/media/P/MORE/MORE_PLE/VendorDailies"
+
+- project: "MediaFactory"
+  path: "/media/P/MORE/MORE_PLE/MediaFactory"

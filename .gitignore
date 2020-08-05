@@ -1,0 +1,5 @@
+*.autosave
+*.pyc
+Logs/
+Logs
+.idea
